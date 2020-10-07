@@ -12,7 +12,7 @@ function App() {
 
       <BannerMain 
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
-        url={dadosIniciais.categorias[0].url}
+        url={dadosIniciais.categorias[0].videos[0].url}
         videoDescription={"O que faz uma desenvolvedora front-end?"}
       />
 
