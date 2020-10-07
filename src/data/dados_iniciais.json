@@ -101,7 +101,7 @@
     },
     {
       "titulo": "Filmes",
-      "cor": "#4D94C3",
+      "cor": "#A86E4C",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -123,7 +123,7 @@
     },
     {
       "titulo": "Games",
-      "cor": "#8A67E1",
+      "cor": "#1167E1",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
