@@ -14,7 +14,11 @@ function Home() {
       <BannerMain 
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
+<<<<<<< HEAD:src/pages/home/index.js
         videoDescription={"O que é front-end? trabalhando na área os termos HTML, CSS e JavaScript fazem partte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa! "}
+=======
+        videoDescription={"O que faz uma desenvolvedora front-end?"}
+>>>>>>> master:src/App.js
       />
 
       <Carousel 
